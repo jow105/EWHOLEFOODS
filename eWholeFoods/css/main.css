@@ -1,0 +1,211 @@
+.homebtn {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 5%;
+
+}
+.addbtn{
+    display: block;
+    width: 20%;
+    margin: 5% 0%;
+    color:white;
+    background-color: green;
+
+}
+
+.adminhomebtn{
+    display: flex;
+    position: relative;
+    width: 30%;
+    margin-top: 2%;
+    color:white;
+    background-color: rgba(3, 3, 97, 0.603)
+
+}
+.adminbtn {
+
+    display: inline;
+    width: 20%;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color:white;
+
+}
+
+.cartbtn {
+    display: flex;
+    position: relative;
+    width: 20%;
+    color:white;
+    background-color: rgb(0, 30, 128);
+
+}
+#right{
+    float: left;
+  
+}
+#reg {
+    color:white;
+    background-color: navy;
+}
+
+#log {
+    color:white;
+    background-color: green;
+}
+
+form {
+    align-items: center;
+}
+
+.banner {
+    text-align: center;
+    margin: 10%;
+    position: static;
+}
+
+
+.accountForm {
+        position: relative;
+        display: -ms-flexbox;
+        display: flex;
+        padding: 1rem;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid rgba(0,0,0,.2);
+        border-radius: 1.1rem;
+        max-width: 500px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 5%;
+}
+
+#submitbtn {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+     align-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: green;
+    color: white;
+}
+
+#productnav {
+    display: inline;
+    display: block;
+    padding-top: 2%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.productbtn {
+    width: 10%;
+    height: 5em;
+    color: white;
+    background-color:rgba(2, 117, 41, 0.979);
+
+}
+div.topseller {
+    border: 2px dotted blue;
+    width: 25%;
+    height: auto;
+    display: block;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+
+div.topseller img {
+    padding-top: 5%;
+    width:100%;
+    height:auto;
+    justify-content: center;
+    display: block;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+  }
+#center{
+    text-align: center;
+}
+div.gallery {
+    margin-top: 10%;
+    border: 1px solid #ccc;
+    float: left;
+    width: 25%;
+    height: 350px;
+    display: inline;
+    display: block;
+    position: relative;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    padding-top: 5%;
+    width:80%;
+    height:60%;
+    justify-content: center;
+    display: block;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+  }
+  
+  div.description {
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+
+  }
+  .product {
+    width: 30%;
+    height: auto;
+    display: block;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+  }
+ 
+#imglist {
+    padding-top: 5%;
+    width:80%;
+    height:auto;
+    justify-content: center;
+    display: block;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+
+.carttable, .salestable{
+
+    width: 50%;
+    position: relative;
+}
+
+
+/* .productable{
+
+    width: 100%;
+    height: auto;
+    position: relative;
+} */
